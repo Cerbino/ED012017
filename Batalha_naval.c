@@ -1,5 +1,5 @@
 /*Alunos: Lucas Cerbino 160133149
-          Rafael honorio
+          Rafael honorio 160142334
 Estrutura de dados*/
 
 #include<stdio.h>
