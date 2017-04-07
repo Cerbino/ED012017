@@ -271,7 +271,7 @@ int main(){
             scanf("%d %d", &i2, &j2);
         }
         teste2(&Mapa2, &Ptotal2, i2,j2);
-        printf("Ultimo lugar jogado\n P1 = [%d][%d]\n P2 = [%d][%d]\n", i1, j1, i2, j2);
+        printf("\nUltimo lugar jogado\n P1 = [%d][%d]\n P2 = [%d][%d]\n", i1, j1, i2, j2);
         printf("Pontuaçao total\n P1 = %d\n P2 = %d\n", Ptotal1, Ptotal2);
     }
     if(Ptotal1 == 54){
