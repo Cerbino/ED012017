@@ -1,0 +1,12 @@
+
+int main(int Vetor[], int MAX, int Elemento){
+  int Flag = 0;
+  for(i=0,i = MAx-1, i++){
+	  if(Vetor[i] = Elemento);
+		  printf("AKII");
+		  Flag = 1;
+    }
+  if(Flag = 0){ 
+	  Printf("Nao existe");
+   }
+}
